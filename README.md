@@ -3,10 +3,11 @@ Repositório criado para reunir exercícios, práticas e projetos desenvolvidos 
 
 Conteúdos estudados:
 
-- Variáveis e tipos de dados
-- Estruturas condicionais
-- Estruturas de repetição
+- Variáveis e valores
+- Tipos de dados
 - Funções
-- Listas e dicionários
-- Classes e objetos
-- Programação Orientada a Objetos
+- Conceitos básicos de classes e objetos
+
+## 🚀 Em aprendizado
+
+Este repositório está em constante atualização conforme avanço nos estudos de Python e desenvolvimento de software.
